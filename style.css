@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  #box {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .green {
+    background-color: green;
+  }
+
+  .red{
+    background-color: red;
+  }
+
+  #texta{
+    margin-left: 490px;
+  }
+  
+  #textb{
+    margin-left: 570px;
+  }
+
+  #textc{
+    margin-left: 460px;
+  }
+  
+  
