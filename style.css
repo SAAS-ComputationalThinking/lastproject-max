@@ -9,11 +9,27 @@
   #box {
     width: 200px;
     height: 200px;
-    background-color: red;
     margin-bottom: 20px;
   }
   
   .green {
     background-color: green;
   }
+
+  .red{
+    background-color: red;
+  }
+
+  #texta{
+    margin-left: 490px;
+  }
+  
+  #textb{
+    margin-left: 570px;
+  }
+
+  #textc{
+    margin-left: 460px;
+  }
+  
   

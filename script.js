@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
       box.classList.add('red');
       box.classList.remove('green');
       resultDisplay.textContent = '';
-      const delay = getRandomTime(1000, 3000);
+      const delay = getRandomTime(3000, 5000);
       setTimeout(() => {
         box.classList.remove('red');
         box.classList.add('green');
